@@ -1,0 +1,6 @@
+Helicopter,20000.00,1
+Horse,150.50,0
+Water,1.00,10
+Soda,1.25,9
+Hugs,1.50,4
+Laptop,300.00,5
